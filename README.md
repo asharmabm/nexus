@@ -1,2 +1,2 @@
 # nexus
-nexus is a system-design oriented backend project.
+nexus is a system-design oriented `go` backend project.
