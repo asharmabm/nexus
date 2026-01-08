@@ -1,2 +1,3 @@
-# nexus
-nexus is a system-design oriented `go` backend project.
+# Nexus
+
+Nexus is a system-design oriented backend service written in `Go`.
